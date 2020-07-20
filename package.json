@@ -2,7 +2,7 @@
   "name": "platzi-api",
   "version": "1.0.1",
   "description": "pequeña api que permite obtener los datos de los cursos aprobados de cualquier estudiante en Platzi, esto con el fin de poder ser utilizados en un portafolio web profesional (el perfil de estudiante debe ser publico)",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
