@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^4.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanB450/platzi-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JonathanB450/platzi-api/issues"
+  },
+  "homepage": "https://github.com/JonathanB450/platzi-api#readme"
 }
