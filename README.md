@@ -9,7 +9,7 @@ platziApi(‘Nombre de usuario sin el @')
 .then(response => console.log(response))
 .catch(err => console.log(err))
 ```
-***El nombre usuario lo puedes conseguir yendo a la parte de “ver mi perfil” y copiando el user id que aparece en la url sin el @***
+***El nombre de usuario lo puedes conseguir yendo a la parte de “ver mi perfil” y copiando el user id que aparece en la url sin el @***
 
 Este código retornara en caso de haberse completado con éxito, un array con objetos los cuales tendrán dos atributos, uno es la url de la imagen del curso y el otro el nombre del curso.
 De esta manera podemos obtener los datos de los cursos realizados por cualquier estudiante que tenga un perfil publico y poder manipularlos
